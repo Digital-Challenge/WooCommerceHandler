@@ -20,5 +20,6 @@
   ],
   "require": {
     "ext-fileinfo": "*"
-  }
+  },
+  "minimum-stability": "dev"
 }
