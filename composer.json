@@ -1,5 +1,5 @@
 {
-  "name": "digital-challenge_/woocommerce-handler",
+  "name": "digital-challenge/woocommerce-handler",
   "type": "library",
   "description": "This is a handler to save products for WooCommerce",
   "keywords": [
