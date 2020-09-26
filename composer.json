@@ -17,5 +17,8 @@
       "homepage": "https://www.dicha.gr",
       "role": "Developer"
     }
-  ]
+  ],
+  "require": {
+    "ext-fileinfo": "*"
+  }
 }
