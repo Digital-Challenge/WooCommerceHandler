@@ -1,0 +1,21 @@
+{
+  "name": "digital-challenge_/woocommerce-handler",
+  "type": "library",
+  "description": "This is a handler to save products for WooCommerce",
+  "keywords": [
+    "woocommerce",
+    "API",
+    "crud",
+    "product"
+  ],
+  "homepage": "https://www.dicha.gr",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dimitrios Chatzimichailidis",
+      "email": "dimitris@dicha.gr",
+      "homepage": "https://www.dicha.gr",
+      "role": "Developer"
+    }
+  ]
+}
