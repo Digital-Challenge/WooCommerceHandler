@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Class WooCommerceSyncHandler
+ * Class WooCommerceHandler
  *
  */
-class WooCommerceSyncHandler {
+class WooCommerceHandler {
 
 	public $product;
 

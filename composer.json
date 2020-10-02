@@ -1,5 +1,5 @@
 {
-  "name": "digital-challenge/woocommerce-sync-handler",
+  "name": "digital-challenge/woocommerce-handler",
   "type": "library",
   "description": "This is a handler to sync products for WooCommerce",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "WooCommerceSyncHandler\\": "src/"
+      "WooCommerceHandler\\": "src/"
     }
   },
   "minimum-stability": "dev"
