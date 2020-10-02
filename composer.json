@@ -21,5 +21,10 @@
   "require": {
     "ext-fileinfo": "*"
   },
+  "autoload": {
+    "psr-4": {
+      "WooCommerceSyncHandler\\": "src/"
+    }
+  },
   "minimum-stability": "dev"
 }
