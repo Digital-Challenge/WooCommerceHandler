@@ -1,7 +1,7 @@
 {
-  "name": "digital-challenge/woocommerce-handler",
+  "name": "digital-challenge/woocommerce-sync-handler",
   "type": "library",
-  "description": "This is a handler to save products for WooCommerce",
+  "description": "This is a handler to sync products for WooCommerce",
   "keywords": [
     "woocommerce",
     "API",
